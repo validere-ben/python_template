@@ -1,4 +1,4 @@
-PYB
+Python Template
 ===
 Python Boilerplate
 
